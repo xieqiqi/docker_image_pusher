@@ -8,3 +8,4 @@ milvusdb/milvus:v2.5.10
 nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
 opencoze/web:latest
+zlmediakit/zlmediakit:latest
